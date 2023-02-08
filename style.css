@@ -1,0 +1,38 @@
+body
+{
+    background-image: linear-gradient(to bottom right,rgb(241, 172, 211),rgb(156, 68, 244),rgb(166, 255, 0));
+    color:aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#h11,#h12,#h13
+{
+    background-color:rgb(98, 145, 27);
+    width: 550px;
+    color: aliceblue;
+}
+
+#webcam
+{
+    border:dashed 2px white;
+    width: 400px;
+    height: 310px;
+}
+
+#capture_button
+{
+    background-color:rgb(1, 143, 147);
+    border-radius:10px;
+    width: 150px;
+    height: 50px;
+}
+
+#recognise_button
+{
+    background-color:rgb(1, 143, 147);
+    border-radius:10px;
+    width: 150px;
+    height: 50px;
+}
+
+
